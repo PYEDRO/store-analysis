@@ -1,4 +1,4 @@
-#Store Data Analysis
+# Store Data Analysis
 
 ## 📌 Project Overview
 This project analyzes a dataset from an Adidas store, processing and cleaning data, performing exploratory data analysis (EDA), feature engineering, and building machine learning models for price prediction and stock availability classification.
