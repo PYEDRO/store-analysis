@@ -1,9 +1,10 @@
-# Adidas Store Data Analysis
+#Store Data Analysis
 
 ## 📌 Project Overview
 This project analyzes a dataset from an Adidas store, processing and cleaning data, performing exploratory data analysis (EDA), feature engineering, and building machine learning models for price prediction and stock availability classification.
 
 ## 📂 Dataset Description
+This dataset was sourced from **Kaggle** and contains detailed information about Adidas store products, including country-specific data, shoe metadata, and sales/stock details.
 The project uses three CSV files:
 - **`country_dim.csv`**: Contains country-related data.
 - **`shoes_dim.csv`**: Contains metadata about shoes.
@@ -75,7 +76,4 @@ python adidas_analysis.py
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SQLite3)
 - **Machine Learning Models** (RandomForestRegressor, RandomForestClassifier)
 - **SQL for querying structured data**
-
----
-
 
